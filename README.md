@@ -3,7 +3,8 @@
 Exploratory Data Analysis, Capstone #3 Data Science Bootcamp, Task 34
 
 AN EXPLORATORY DATA ANALYSIS PROJECT.
-
+INCLUDED ARE:-
+  - AUTOMOBILE TASK JUPYTER NOTEBOOK FILE & automobile.txt FILE & AUTOMOBILE WORD-DOCUMENT FILE
 THE TASK BRIEF IS SET-OUT BELOW.
 
 Compulsory Task 1
